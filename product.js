@@ -37,3 +37,6 @@ class activity extends product {
         console.log(`The total amount is ${this.totalamt} .`);
     }
 }
+    var e=new print("shampoo","101","30","5","ranita","111","35","175")
+    e.print();
+
